@@ -89,8 +89,8 @@ minMagnitude: OPTIONAL, Minimum magnitude to filter on
 maxMagnitude: OPTIONAL, Maximum magnitude to filter on
 hasTsunami: OPTIONAL, if had Tsunami
 radius: REQUIRED, radius to filter on (Km)
-startDatetime: REQUIRED, start date to filetr on
-endDatetime: REQUIRED, end date to filetr on
+startDatetime: REQUIRED, start date to filter on
+endDatetime: REQUIRED, end date to filter on
 ```
 
 #### Use case
